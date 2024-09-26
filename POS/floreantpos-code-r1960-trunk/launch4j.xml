@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+    <dontWrapJar>true</dontWrapJar>
+    <headerType>gui</headerType>
+    <jar>.</jar>
+    <outfile>/home/mshahriar/workspace/floreantpos/target/floreantpos-bin/floreantpos/floreantpos.exe</outfile>
+    <priority>normal</priority>
+    <downloadUrl>http://java.com/download</downloadUrl>
+    <stayAlive>false</stayAlive>
+</launch4jConfig>
